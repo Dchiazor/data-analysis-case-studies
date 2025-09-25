@@ -10,7 +10,7 @@ Here are some of my recent data analysis case studies:
 ## 📊📁 Case Study 1: Amazon Product Review Analysis
 
 - **Description**: Sales data for Q1 2023 across regions.
-- **Files**: [Case Description](./Case-1-Excel/Case-Description.pdf), [Excel Analysis](./Case-1-Excel/Excel-Analysis.xlsx)
+- **Files**: [Case Description](./Case-1 Excel/Case-Description.pdf), [Excel Analysis](./Case-1-Excel/Excel-Analysis.xlsx)
 
 ---
 
